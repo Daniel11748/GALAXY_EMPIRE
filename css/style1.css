@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Righteous", sans-serif;
+    background-image: url(../image/fondo.jpg) ;
+    background-size: cover;
+    background-position: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.encabezado{
+    margin-top: 10px;
+    margin-bottom: 0%;
+    color: #000000;
+    text-align: center;
+    font-family: "Righteous", sans-serif;
+    font-weight: 300px;
+  font-size: 50px;
+}
+
+.info1{
+    color: #000000;
+    text-align: center;
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.cuadro{
+    margin: 0 auto;
+    margin-top: 1cm;
+    background-color: #49474798;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px 5px rgba(244, 244, 244, 0.449);
+    width: 300px;
+    text-align: center;
+}
+
+.cuadro h2 {
+    color: #d8d8d8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #d8d8d8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #f8f6f63b;
+    border-radius: 4px;
+    background-color: rgba(114, 111, 185, 0.29);
+    color: #fff;
+}
+
+.form-group button {
+    background-color: #4d2dc2b7;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+
+a{
+    text-decoration: none;
+    color: beige;
+}
+
+
+.info2{
+    font-family: "Righteous", sans-serif;
+    color: #000000;
+    text-align: center;
+    margin-top:5%
+}
+
+.info{
+    font-family: "Righteous", sans-serif;
+    color: #000000;
+    text-align: center;
+}
+.imagencentro img{
+    width: 200px;
+}
+
+h3{
+    font-family: "Righteous", sans-serif;
+
+}
